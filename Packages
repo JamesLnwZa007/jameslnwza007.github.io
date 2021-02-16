@@ -2,7 +2,7 @@ Package: io.github.jameslnwza007.sileo
 Version: 2.0.0b6
 Section: Tweaks
 Maintainer: CoolStar <example@domain.com>
-Depends: firmware (<=14.0)
+Depends: firmware (>=14.0)
 Architecture: iphoneos-arm
 Filename: ./debs/org.coolstar.sileo_2.0.0b6_iphoneos-arm.deb
 Size: 3300178
