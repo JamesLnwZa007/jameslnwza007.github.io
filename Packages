@@ -1,0 +1,14 @@
+Package: org.coolstar.sileo
+Version: 2.0.0b6
+Section: Tweaks
+Maintainer: CoolStar <example@domain.com>
+Depends: firmware (<14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.sileo_2.0.0b6_iphoneos-arm.deb
+Size: 3300178
+MD5sum: 0c895e038a1c13e4af04a46aac1eb10e
+SHA1: 5f81b9e70ee95d44826139db13e89336ff5186c5
+SHA256: c25f66dd6683ff926fa9004d0c51571d2a0e8d4da2ffa5696a6bad51f43659e8
+Description: Default Sileo on Checkra1n iOS 14.x
+Name: Sileo
+Author: CoolStar <example@domain.com>
