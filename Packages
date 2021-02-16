@@ -9,8 +9,8 @@ Description: A proper APT client for iOS 11 and higher. (View this package in Si
 Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 Version: 2.0.0b6
-Filename: ./debs/io.github.jameslnwza007.sileo_2.0.0b6_iphoneos_arm.deb
+Filename: ./debs/org.coolstar.sileo_2.0.0b6_iphoneos-arm.deb
 Size: 3299708
-MD5sum: feb0e43478db0f3056784f07a8f339e9
-SHA1: ecf4d8d57edea1b4675f5ac0ba790c83b019562b
-SHA256: 327af29369d1c051f682889426ad81202958e9ec37899775a3702fa41cdd13cd
+MD5sum: 0c895e038a1c13e4af04a46aac1eb10e
+SHA1: 5f81b9e70ee95d44826139db13e89336ff5186c5
+SHA256: c25f66dd6683ff926fa9004d0c51571d2a0e8d4da2ffa5696a6bad51f43659e8
